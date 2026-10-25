@@ -1,0 +1,31 @@
+group,item,qty,unit_inr,total_inr,note
+Sensing & compute,Raspberry Pi Zero 2 W,1,1800,1800,estimate
+Sensing & compute,Camera OV5647 + cable,1,1050,1050,estimate
+Sensing & compute,MLX90640 thermal camera,1,5500,5500,"store prices seen 5500-7300; cheap clones 1500-3500"
+Sensing & compute,MH-Z19B CO2 sensor,1,2500,2500,estimate
+Sensing & compute,INMP441 microphone,1,300,300,estimate
+Sensing & compute,LEDs + resistors + MOSFET,1,100,100,estimate
+Control,ESP32 DevKit,1,500,500,estimate
+Control,PCA9685 servo driver,1,350,350,estimate
+Control,MCP23017 I/O expander,2,150,300,estimate
+Drive,N20 gear motor (12 V type),12,250,3000,estimate
+Drive,TB6612FNG driver module,6,150,900,estimate
+Drive,MG90S servo,8,200,1600,estimate
+Power,18650 cell,2,300,600,estimate
+Power,2S BMS 10 A + fuse + switch,1,350,350,estimate
+Power,Buck converters (5 V and 6 V),2,200,400,estimate
+Power,2S 18650 charger,1,500,500,estimate
+Power,NTC thermistors,1,60,60,estimate
+Wiring,Wire / connectors / heat-shrink,1,700,700,estimate
+Mechanical,PETG filament 1 kg,1,1400,1400,estimate
+Mechanical,TPU 95A filament 0.5 kg,1,1300,1300,estimate
+Mechanical,Al6061 joint yokes (8) machined,1,4500,4500,"estimate; range 3000-8000"
+Mechanical,623ZZ bearings,16,20,320,estimate
+Mechanical,Steel cross-spider pins,1,400,400,estimate
+Mechanical,Steel tendon cable 1.2 mm + PTFE tube,1,900,900,estimate
+Mechanical,Screws / nuts / glue,1,600,600,estimate
+Recovery & link,Dyneema line + reel + M6 eyebolt,1,1800,1800,estimate
+Recovery & link,Tether cable + USB-Ethernet adapter,1,1300,1300,"estimate; design TBD"
+SUBTOTAL,,,,33030,
+CONTINGENCY 10%,,,,3303,
+TOTAL,,,,36333,
